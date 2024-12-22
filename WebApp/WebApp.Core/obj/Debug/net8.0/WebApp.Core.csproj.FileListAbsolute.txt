@@ -1,0 +1,11 @@
+C:\Users\revan\Desktop\WebApp\WebApp.Core\bin\Debug\net8.0\WebApp.Core.deps.json
+C:\Users\revan\Desktop\WebApp\WebApp.Core\bin\Debug\net8.0\WebApp.Core.dll
+C:\Users\revan\Desktop\WebApp\WebApp.Core\bin\Debug\net8.0\WebApp.Core.pdb
+C:\Users\revan\Desktop\WebApp\WebApp.Core\obj\Debug\net8.0\WebApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\revan\Desktop\WebApp\WebApp.Core\obj\Debug\net8.0\WebApp.Core.AssemblyInfoInputs.cache
+C:\Users\revan\Desktop\WebApp\WebApp.Core\obj\Debug\net8.0\WebApp.Core.AssemblyInfo.cs
+C:\Users\revan\Desktop\WebApp\WebApp.Core\obj\Debug\net8.0\WebApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\revan\Desktop\WebApp\WebApp.Core\obj\Debug\net8.0\WebApp.Core.dll
+C:\Users\revan\Desktop\WebApp\WebApp.Core\obj\Debug\net8.0\refint\WebApp.Core.dll
+C:\Users\revan\Desktop\WebApp\WebApp.Core\obj\Debug\net8.0\WebApp.Core.pdb
+C:\Users\revan\Desktop\WebApp\WebApp.Core\obj\Debug\net8.0\ref\WebApp.Core.dll

@@ -1,0 +1,15 @@
+C:\Users\revan\Desktop\WebApp\WebApp.DAL\bin\Debug\net8.0\WebApp.DAL.deps.json
+C:\Users\revan\Desktop\WebApp\WebApp.DAL\bin\Debug\net8.0\WebApp.DAL.dll
+C:\Users\revan\Desktop\WebApp\WebApp.DAL\bin\Debug\net8.0\WebApp.DAL.pdb
+C:\Users\revan\Desktop\WebApp\WebApp.DAL\bin\Debug\net8.0\WebApp.Core.dll
+C:\Users\revan\Desktop\WebApp\WebApp.DAL\bin\Debug\net8.0\WebApp.Core.pdb
+C:\Users\revan\Desktop\WebApp\WebApp.DAL\obj\Debug\net8.0\WebApp.DAL.csproj.AssemblyReference.cache
+C:\Users\revan\Desktop\WebApp\WebApp.DAL\obj\Debug\net8.0\WebApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\revan\Desktop\WebApp\WebApp.DAL\obj\Debug\net8.0\WebApp.DAL.AssemblyInfoInputs.cache
+C:\Users\revan\Desktop\WebApp\WebApp.DAL\obj\Debug\net8.0\WebApp.DAL.AssemblyInfo.cs
+C:\Users\revan\Desktop\WebApp\WebApp.DAL\obj\Debug\net8.0\WebApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\revan\Desktop\WebApp\WebApp.DAL\obj\Debug\net8.0\WebApp.DAL.csproj.Up2Date
+C:\Users\revan\Desktop\WebApp\WebApp.DAL\obj\Debug\net8.0\WebApp.DAL.dll
+C:\Users\revan\Desktop\WebApp\WebApp.DAL\obj\Debug\net8.0\refint\WebApp.DAL.dll
+C:\Users\revan\Desktop\WebApp\WebApp.DAL\obj\Debug\net8.0\WebApp.DAL.pdb
+C:\Users\revan\Desktop\WebApp\WebApp.DAL\obj\Debug\net8.0\ref\WebApp.DAL.dll
